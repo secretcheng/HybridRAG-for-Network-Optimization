@@ -17,11 +17,20 @@ This project aims to jointly solve the communication optimization problem underl
 we will update the code in the future.
 
 
-
-
 ## 📬 Contact
 
 For any queries or suggestions, please open an issue in the repository.
+
+## Citation
+
+```bibtex
+@article{wen2025hybridrag,
+  title={HybridRAG-based LLM Agents for Low-Carbon Optimization in Low-Altitude Economy Networks},
+  author={Wen, Jinbo and Su, Cheng and Kang, Jiawen and Nie, Jiangtian and Zhang, Yang and Tang, Jianhang and Niyato, Dusit and Yuen, Chau},
+  journal={arXiv preprint arXiv:2506.15947},
+  year={2025}
+}
+```
 
 ---
 <div align="center">
