@@ -1,6 +1,6 @@
-# 🔍 HybridRAG-based LLM Agents for MEC Networks
+# 🔍 HybridRAG-based LLM Agents
 
-> 🌟 This repository is the official source code from the paper of 	`LLM Agents for Low-Carbon Multi-UAV-assisted MEC Networks: A HybridRAG-based Approach`. Welcome to see our work in arxiv.
+> 🌟 This repository is the official source code from the paper of 	`LLM Agents for Low-Carbon Multi-UAV-assisted MEC Networks: A HybridRAG-based Approach`. Welcome to see our work on arXiv.
 
 ## 🎯 Overview
 This project aims to jointly solve the communication optimization problem underlying MEC networks using HybridRAG and LLM Agents. We used **Qwen2.5-72B** in the example to build the optimization problem
@@ -14,7 +14,7 @@ This project aims to jointly solve the communication optimization problem underl
 
 
 ## 🤝 Plan
-we will update the code in the future.
+We will update the code in the future.
 
 
 ## 📬 Contact
