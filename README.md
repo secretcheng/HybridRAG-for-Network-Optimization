@@ -3,7 +3,7 @@
 > 🌟 This repository is the official source code from the paper of 	``HybridRAG-based LLM Agents for Low-Carbon Optimization in Low-Altitude Economy Networks.`` Welcome to see our work on arXiv.
 
 ## 🎯 Overview
-This project aims to jointly solve the communication optimization problem underlying MEC networks using HybridRAG and LLM Agents. We developed HybridRAG by combining KeywordRAG, GraphRAG, and VectorRAG. We used **Qwen2.5-72B** in the example to build the optimization problem.
+This project aims to jointly solve the communication optimization problem underlying MEC networks using HybridRAG and LLM Agents. We developed **HybridRAG by combining KeywordRAG, GraphRAG, and VectorRAG**. We used **Qwen2.5-72B** in the example to build the optimization problem.
 
 
 
